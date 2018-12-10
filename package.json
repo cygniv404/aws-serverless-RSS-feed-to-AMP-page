@@ -1,0 +1,18 @@
+{
+  "name": "rss-feed to amp-page",
+  "version": "1.0.0",
+  "description": " fetch rss feed from url and convert it to a simple amp page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ahmed Riahi",
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.5.4"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.31.3"
+  }
+}
